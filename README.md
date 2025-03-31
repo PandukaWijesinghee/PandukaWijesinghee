@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panduka Wijesinghe</h1>
-<h3 align="center">A passionate full stack developer in Sri Lanka</h3>
+<h3 align="center">A passionate FullStack developer in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandukawijesinghee&label=Profile%20views&color=0e75b6&style=flat" alt="pandukawijesinghee" /> </p>
 
