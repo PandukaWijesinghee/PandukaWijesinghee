@@ -19,7 +19,7 @@ I am passionate about developing *innovative solutions* and always eager to push
     <img src="https://img.shields.io/badge/GitHub-%40PandukaWijesinghe-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/pandukawijesinghe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%40Kavini%20Gamalath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%40Panduka%20Wijesinghe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@ I am passionate about developing *innovative solutions* and always eager to push
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandukaWijesinghee&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en&random={{timestamp}}" alt="Kavini's GitHub Stats"
+  <img src="https://github-readme-stats.vercel.app/api?username=PandukaWijesinghee&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en&random={{timestamp}}" alt="PandukaWijesinghe's GitHub Stats"
 style="max-width: 200%;"/>
 </p>
 
@@ -98,13 +98,13 @@ style="max-width: 200%;"/>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Kavini's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="PandukaWijesinghe's GitHub Trophies" />
   </a>
 </p>
 
 ### 🚀 Let’s Collaborate:
 I’m always open to *new projects, **open-source collaborations, and **learning from others*. Let’s connect and build something amazing!  
-🔗 Feel free to reach out via *[email](mailto:kavinigamalathofficial@gmail.com)* or *[GitHub](https://github.com/Kavinigamalath)*!
+🔗 Feel free to reach out via *[email](mailto:pandukawijesinghe@gmail.com)* or *[GitHub](https://github.com/PandukaWijesinghee)*!
 
 ---
 
