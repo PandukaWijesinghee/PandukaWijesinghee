@@ -22,7 +22,7 @@ I am passionate about developing *innovative solutions* and always eager to push
     <img src="https://img.shields.io/badge/LinkedIn-%40Panduka%20Wijesinghe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/pandukawijesinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="10" width="20" />
   </a>
 </p>
 
