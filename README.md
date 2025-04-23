@@ -107,6 +107,8 @@ I am passionate about developing *innovative solutions* and always eager to push
 </p>
 ---
 
+
+
 ### 🔥 Streak Stats:
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=PandukaWijesinghee&theme=dark">
@@ -131,6 +133,13 @@ I am passionate about developing *innovative solutions* and always eager to push
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="PandukaWijesinghe's GitHub Trophies" />
+  </a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=radical&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=radical&margin-w=20&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
   </a>
 </p>
 
