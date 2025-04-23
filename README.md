@@ -105,9 +105,6 @@ I am passionate about developing *innovative solutions* and always eager to push
   </a>
 </p>
 
-
-
-
 ### 🔥 Streak Stats:
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=PandukaWijesinghee&theme=dark">
@@ -117,7 +114,7 @@ I am passionate about developing *innovative solutions* and always eager to push
   </a>
 </p>
 
----
+
 <!--
 ### 🗣 Most Used Languages:
 <p align="center">
