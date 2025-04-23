@@ -9,15 +9,6 @@ I'm a *Software Engineering* student at **Sri Lanka Institute of Information Tec
 I am passionate about developing *innovative solutions* and always eager to push the boundaries of technology through *open-source projects*, *coding challenges*, and *collaborations*.
 
 ---
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/pandukawijesinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/pandukawijesinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
 
 ### 🌐 Connect with Me:
 <p align="center">
