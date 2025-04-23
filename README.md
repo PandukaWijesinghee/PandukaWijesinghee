@@ -74,7 +74,7 @@ I am passionate about developing *innovative solutions* and always eager to push
 </p>
 
 #### 🎨 Design & Multimedia Tools
-<p align="left">
+<p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
