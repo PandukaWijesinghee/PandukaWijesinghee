@@ -10,32 +10,21 @@ I am passionate about developing *innovative solutions* and always eager to push
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Let’s Connect
 <p align="center">
-  <a href="mailto:pandukawijesinghe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/PandukaWijesinghee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%40PandukaWijesinghe-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pandukawijesinghe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%40Panduka%20Wijesinghe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://linkedin.com/in/pandukawijesinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/pandukawijesinghe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <a href="mailto:pandukawijesinghe@gmail.com"><img src="https://img.shields.io/badge/Email-📧-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/PandukaWijesinghee"><img src="https://img.shields.io/badge/GitHub-🐙-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/pandukawijesinghe/"><img src="https://img.shields.io/badge/LinkedIn-🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/pandukawijesinghe"><img src="https://img.shields.io/badge/Instagram-📸-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
 ### 💬 Ask Me About:
 <p align="center">
-  <span style="font-size: 18px; color: #61DAFB; font-weight: bold;">💻 *Web Development*</span> |  
-  <span style="font-size: 18px; color: #F7DF1E; font-weight: bold;">📱 *Mobile App Development*</span> |  
-  <span style="font-size: 18px; color: #2496ED; font-weight: bold;">🤖 *AI-powered web development*</span>
+  <span style="font-size: 18px; color: #61DAFB; font-weight: bold;">💻 Web Development</span> |  
+  <span style="font-size: 18px; color: #F7DF1E; font-weight: bold;">📱 Mobile App Development</span> |  
+  <span style="font-size: 18px; color: #2496ED; font-weight: bold;">🤖 AI-powered web development</span>
 </p>
 
 ---
@@ -76,24 +65,28 @@ I am passionate about developing *innovative solutions* and always eager to push
 #### 🎨 Design & Multimedia Tools
 <p align="center">
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
   </a>
-  <!-- Photoshop (using simpleicons) -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  
+  <!-- Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop"/>
   </a>
+  
+  <!-- Lightroom -->
+  <a href="https://www.adobe.com/products/lightroom.html" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png" width="40" alt="Lightroom"/>
+  </a>
+  
   <!-- Premiere Pro -->
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40" alt="Premiere Pro"/>
   </a>
+  
   <!-- After Effects -->
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
-  </a>
-  <!-- Lightroom (using simpleicons) -->
-  <a href="https://www.adobe.com/products/lightroom.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/adobelightroom.svg" alt="Lightroom" width="40" height="40"/>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40" alt="After Effects"/>
   </a>
 </p>
 
