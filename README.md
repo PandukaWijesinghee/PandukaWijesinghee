@@ -105,7 +105,7 @@ I am passionate about developing *innovative solutions* and always eager to push
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="48" style="filter: drop-shadow(0 0 4px #D291FF)" alt="After Effects"/>
   </a>
 </p>
----
+
 
 
 
