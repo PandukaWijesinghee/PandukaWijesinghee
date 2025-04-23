@@ -112,7 +112,7 @@ I am passionate about developing *innovative solutions* and always eager to push
 ### 🔥 Streak Stats:
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=PandukaWijesinghee&theme=dark">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kavini's GitHub Streak" 
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PandukaWijesinghe's GitHub Streak" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=PandukaWijesinghee&theme=dark&hide_border=false&random={{timestamp}}" 
          style="max-width: 200%;">
   </a>
