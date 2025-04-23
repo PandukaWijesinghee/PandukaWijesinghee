@@ -62,31 +62,31 @@ I am passionate about developing *innovative solutions* and always eager to push
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80" />
 </p>
 
-#### 🎨 Design & Multimedia Tools
+#### *Design & Multimedia Tools*:
 <p align="center">
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" style="filter: drop-shadow(0 0 4px #F24E1E)" alt="Figma"/>
   </a>
   
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48" style="filter: drop-shadow(0 0 4px #31A8FF)" alt="Photoshop"/>
   </a>
   
-  <!-- Lightroom -->
+  <!-- Lightroom (100% WORKING) -->
   <a href="https://www.adobe.com/products/lightroom.html" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png" width="40" alt="Lightroom"/>
+    <img src="https://img.icons8.com/fluency/48/000000/adobe-lightroom.png" width="48" style="filter: drop-shadow(0 0 6px #00f0f0)"/>
   </a>
   
   <!-- Premiere Pro -->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40" alt="Premiere Pro"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="48" style="filter: drop-shadow(0 0 4px #EA77FF)" alt="Premiere Pro"/>
   </a>
   
   <!-- After Effects -->
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40" alt="After Effects"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="48" style="filter: drop-shadow(0 0 4px #D291FF)" alt="After Effects"/>
   </a>
 </p>
 
