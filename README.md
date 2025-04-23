@@ -44,8 +44,6 @@ I am passionate about developing *innovative solutions* and always eager to push
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80" />
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80" />
 </p>
 
@@ -58,12 +56,21 @@ I am passionate about developing *innovative solutions* and always eager to push
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="80" height="80" />
 </p>
 
-#### *Tools*:
+#### *Frameworks & Platforms*:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="80" height="80" />
+</p>
+
+#### *Development Tools*:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="80" height="80" />
 </p>
 
 #### *Design & Multimedia Tools*:
@@ -73,12 +80,17 @@ I am passionate about developing *innovative solutions* and always eager to push
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" style="filter: drop-shadow(0 0 4px #F24E1E)" alt="Figma"/>
   </a>
   
+  <!-- Illustrator -->
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="48" style="filter: drop-shadow(0 0 4px #FF9A00)" alt="Illustrator"/>
+  </a>
+  
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48" style="filter: drop-shadow(0 0 4px #31A8FF)" alt="Photoshop"/>
   </a>
   
-  <!-- Lightroom (100% WORKING) -->
+  <!-- Lightroom -->
   <a href="https://www.adobe.com/products/lightroom.html" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/adobe-lightroom.png" width="48" style="filter: drop-shadow(0 0 6px #00f0f0)"/>
   </a>
@@ -93,16 +105,6 @@ I am passionate about developing *innovative solutions* and always eager to push
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="48" style="filter: drop-shadow(0 0 4px #D291FF)" alt="After Effects"/>
   </a>
 </p>
-
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PandukaWijesinghee&show_icons=true&count_private=true&hide=prs&theme=dark&locale=en&random={{timestamp}}" alt="PandukaWijesinghe's GitHub Stats"
-style="max-width: 200%;"/>
-</p>
-
 ---
 
 ### 🔥 Streak Stats:
@@ -132,6 +134,9 @@ style="max-width: 200%;"/>
   </a>
 </p>
 
+### 📈 Coding Activity
+<!-- GitHub Activity Graph -->
+[![Panduka's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PandukaWijesinghee&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🚀 Let’s Collaborate:
 I’m always open to *new projects, **open-source collaborations, and **learning from others*. Let’s connect and build something amazing!  
 🔗 Feel free to reach out via *[email](mailto:pandukawijesinghe@gmail.com)* or *[GitHub](https://github.com/PandukaWijesinghee)*!
