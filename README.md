@@ -75,20 +75,25 @@ I am passionate about developing *innovative solutions* and always eager to push
 
 #### 🎨 Design & Multimedia Tools
 <p align="center">
+  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
+  <!-- Photoshop (using simpleicons) -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
   </a>
+  <!-- Premiere Pro -->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
   </a>
+  <!-- After Effects -->
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
   </a>
+  <!-- Lightroom (using simpleicons) -->
   <a href="https://www.adobe.com/products/lightroom.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lightroom.svg" alt="Lightroom" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/adobelightroom.svg" alt="Lightroom" width="40" height="40"/>
   </a>
 </p>
 
