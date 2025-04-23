@@ -136,13 +136,8 @@ I am passionate about developing *innovative solutions* and always eager to push
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=radical&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=radical&margin-w=20&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-  </a>
-</p>
-
+<!--//[![trophy](https://github-profile-trophy.vercel.app/?username=PandukaWijesinghee&theme=radical&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 ### 📈 Coding Activity
 <!-- GitHub Activity Graph -->
 [![Panduka's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PandukaWijesinghee&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
