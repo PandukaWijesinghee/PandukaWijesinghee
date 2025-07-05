@@ -6,7 +6,7 @@
 
 ###  About Me:
 I'm a *Software Engineering* student at **Sri Lanka Institute of Information Technology (SLIIT)**, focusing on *web development*, *AI-powered web development*, and *mobile app development*.  
-I am passionate about developing *innovative solutions* and always eager to push the boundaries of technology through *open-source projects*, *coding challenges*, and *collaborations*.
+I am passionate about developing *innovative solutions* and always eager to push the boundaries of technology through *open source projects*, *coding challenges*, and *collaborations*.
 
 <p align="right">
   <img src="path/to/your-gif.gif" alt="SpiderVerse GIF" width="400" />
